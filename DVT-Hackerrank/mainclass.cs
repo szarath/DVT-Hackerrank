@@ -5,17 +5,11 @@ using System.Runtime.ConstrainedExecution;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace DVT_Hackerrank
+namespace MStest_.netcore6
 {
-    internal class DVT
+    internal class mainclass
     {
-        public void testfunc()
-        {
-
-
-         
-        }
-        public static string newPassword(string a, string b)
+        public string newPassword(string a, string b)
         {
             char[] aarray = a.ToCharArray();
             char[] barray = b.ToCharArray();
@@ -57,57 +51,57 @@ namespace DVT_Hackerrank
 }
 
 
-class WagonR : Car
-{
-    int Mileage;
-    public WagonR(int Mileage)
-    {
-        this.Mileage = Mileage;
-        this.isSedan = false;
-        this.seats = "4";
-    }
+//class WagonR : Car
+//{
+//    int Mileage;
+//    public WagonR(int Mileage)
+//    {
+//        this.Mileage = Mileage;
+//        this.isSedan = false;
+//        this.seats = "4";
+//    }
 
-    public override string getMileage()
-    {
-        return Mileage.ToString() + " kmpl";
-    }
-}
-/**
-*   HondaCity class
-**/
-class HondaCity : Car
-{
-    int Mileage;
-    public HondaCity(int Mileage)
-    {
-        this.Mileage = Mileage;
-        this.isSedan = true;
-        this.seats = "4";
-    }
+//    public override string getMileage()
+//    {
+//        return Mileage.ToString() + " kmpl";
+//    }
+//}
+///**
+//*   HondaCity class
+//**/
+//class HondaCity : Car
+//{
+//    int Mileage;
+//    public HondaCity(int Mileage)
+//    {
+//        this.Mileage = Mileage;
+//        this.isSedan = true;
+//        this.seats = "4";
+//    }
 
-    public override string getMileage()
-    {
-        return Mileage.ToString() + " kmpl";
-    }
-}
-/**
-*   InnovaCrysta class
-**/
-class InnovaCrysta : Car
-{
-    int Mileage;
-    public InnovaCrysta(int Mileage)
-    {
-        this.Mileage = Mileage;
-        this.isSedan = false;
-        this.seats = "6";
-    }
+//    public override string getMileage()
+//    {
+//        return Mileage.ToString() + " kmpl";
+//    }
+//}
+///**
+//*   InnovaCrysta class
+//**/
+//class InnovaCrysta : Car
+//{
+//    int Mileage;
+//    public InnovaCrysta(int Mileage)
+//    {
+//        this.Mileage = Mileage;
+//        this.isSedan = false;
+//        this.seats = "6";
+//    }
 
-    public override string getMileage()
-    {
-        return Mileage.ToString() + " kmpl";
-    }
-}
+//    public override string getMileage()
+//    {
+//        return Mileage.ToString() + " kmpl";
+//    }
+//}
 
 
 

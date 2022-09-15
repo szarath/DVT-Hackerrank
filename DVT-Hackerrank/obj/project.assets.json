@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Test Repos\\DVT-Hackerrank\\DVT-Hackerrank\\DVT-Hackerrank.csproj",
-      "projectName": "DVT-Hackerrank",
-      "projectPath": "D:\\Test Repos\\DVT-Hackerrank\\DVT-Hackerrank\\DVT-Hackerrank.csproj",
+      "projectUniqueName": "D:\\Test Repos\\DVT-Hackerrank\\DVT-Hackerrank\\MStest_.netcore6.csproj",
+      "projectName": "MStest_.netcore6",
+      "projectPath": "D:\\Test Repos\\DVT-Hackerrank\\DVT-Hackerrank\\MStest_.netcore6.csproj",
       "packagesPath": "C:\\Users\\szara\\.nuget\\packages\\",
       "outputPath": "D:\\Test Repos\\DVT-Hackerrank\\DVT-Hackerrank\\obj\\",
       "projectStyle": "PackageReference",

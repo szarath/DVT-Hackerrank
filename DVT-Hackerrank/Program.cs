@@ -1,6 +1,5 @@
 ﻿
-using DVT_Hackerrank;
+using MStest_.netcore6;
 Console.WriteLine("Hello, World!");
-DVT dvtclass = new DVT();
-
-dvtclass.testfunc();
+mainclass dvtclass = new mainclass();
+string v = dvtclass.newPassword("rest","test");

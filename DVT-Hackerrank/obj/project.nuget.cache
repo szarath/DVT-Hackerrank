@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "uai+dXo/FC3KGAllflIJmXrmHD+F3csPNNIYybHSyvs3CISc/8UxRKkYDktcx3U5H5qN8mCfgQziGn6BeJAnbA==",
+  "dgSpecHash": "dTvWJzS57h1iDBBExyNtK+8Rii6K3ofCVjuSLW+4S1j2qd0U0pTiePYpd3w010cRMDztNjfZr+AN6RLNxMX61A==",
   "success": true,
-  "projectFilePath": "D:\\Test Repos\\DVT-Hackerrank\\DVT-Hackerrank\\DVT-Hackerrank.csproj",
+  "projectFilePath": "D:\\Test Repos\\DVT-Hackerrank\\DVT-Hackerrank\\MStest_.netcore6.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

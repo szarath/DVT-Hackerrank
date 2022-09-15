@@ -1,0 +1,15 @@
+D:\Test Repos\DVT-Hackerrank\DVT-Hackerrank\bin\Debug\net6.0\MStest_.netcore6.exe
+D:\Test Repos\DVT-Hackerrank\DVT-Hackerrank\bin\Debug\net6.0\MStest_.netcore6.deps.json
+D:\Test Repos\DVT-Hackerrank\DVT-Hackerrank\bin\Debug\net6.0\MStest_.netcore6.runtimeconfig.json
+D:\Test Repos\DVT-Hackerrank\DVT-Hackerrank\bin\Debug\net6.0\MStest_.netcore6.dll
+D:\Test Repos\DVT-Hackerrank\DVT-Hackerrank\bin\Debug\net6.0\MStest_.netcore6.pdb
+D:\Test Repos\DVT-Hackerrank\DVT-Hackerrank\obj\Debug\net6.0\MStest_.netcore6.csproj.AssemblyReference.cache
+D:\Test Repos\DVT-Hackerrank\DVT-Hackerrank\obj\Debug\net6.0\MStest_.netcore6.GeneratedMSBuildEditorConfig.editorconfig
+D:\Test Repos\DVT-Hackerrank\DVT-Hackerrank\obj\Debug\net6.0\MStest_.netcore6.AssemblyInfoInputs.cache
+D:\Test Repos\DVT-Hackerrank\DVT-Hackerrank\obj\Debug\net6.0\MStest_.netcore6.AssemblyInfo.cs
+D:\Test Repos\DVT-Hackerrank\DVT-Hackerrank\obj\Debug\net6.0\MStest_.netcore6.csproj.CoreCompileInputs.cache
+D:\Test Repos\DVT-Hackerrank\DVT-Hackerrank\obj\Debug\net6.0\MStest_.netcore6.dll
+D:\Test Repos\DVT-Hackerrank\DVT-Hackerrank\obj\Debug\net6.0\refint\MStest_.netcore6.dll
+D:\Test Repos\DVT-Hackerrank\DVT-Hackerrank\obj\Debug\net6.0\MStest_.netcore6.pdb
+D:\Test Repos\DVT-Hackerrank\DVT-Hackerrank\obj\Debug\net6.0\MStest_.netcore6.genruntimeconfig.cache
+D:\Test Repos\DVT-Hackerrank\DVT-Hackerrank\obj\Debug\net6.0\ref\MStest_.netcore6.dll

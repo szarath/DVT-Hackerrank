@@ -1,1 +1,1 @@
-# MStest_.netcore6.0
+# MStest_.netcore6
